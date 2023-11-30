@@ -1,3 +1,4 @@
+import java.util.*;
 public class CounT_digit {
     public static void main(String[] args) {
         int number = 3564;
